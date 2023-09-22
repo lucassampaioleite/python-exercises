@@ -30,5 +30,4 @@
 
 15. [Banco de questões utilizadas em 1ª verificação de aprendizagem](015_bdq_av1.ipynb)
 16. [Banco de questões utilizadas em 2ª verificações de aprendizagem](016_bdq_av2.ipynb)
-
-
+17. [Banco de questões utilizadas em maratonas de programação antes da AV1.](017_bdq_maratona1.ipynb)
